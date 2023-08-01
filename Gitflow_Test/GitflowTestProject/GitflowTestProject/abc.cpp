@@ -16,4 +16,5 @@ void abc::abctest()
 void abc::ctest()
 {
 	int ad = 0;
+	int a = 0;
 }
