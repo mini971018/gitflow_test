@@ -18,5 +18,6 @@ protected:
 
 private:
 	void abctest();
+	void ctest();
 };
 

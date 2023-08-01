@@ -12,3 +12,8 @@ void abc::abctest()
 {
 	int abcdef = 0;
 }
+
+void abc::ctest()
+{
+	int ad = 0;
+}
