@@ -8,3 +8,7 @@ abc::~abc()
 {
 }
 
+void abc::abctest()
+{
+	int abcdef = 0;
+}

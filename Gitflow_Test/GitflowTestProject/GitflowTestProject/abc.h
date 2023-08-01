@@ -17,6 +17,6 @@ public:
 protected:
 
 private:
-
+	void abctest();
 };
 
